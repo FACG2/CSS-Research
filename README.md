@@ -1,6 +1,5 @@
 # CSS-Research
-## This reserch contains this main topics: 
-* Responsive vs mobile-first design.
-* How to write CSS with BEM.
+CSS research topic
 
-## Responsive vs mobile-first design
+Responsive:
+It is used to describe the possibility of websites adapting to various output devices. 
