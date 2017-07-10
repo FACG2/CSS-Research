@@ -12,7 +12,7 @@
 
 ![Mobile First vs. Responsive](http://metamonks.com/wp-content/uploads/responsive-vs-mobile-first-webdesign-022-1024x689.png "Mobile First vs. Responsive")
 
-###Is a mobile-first strategy right for me?
+### Is a mobile-first strategy right for me?
 A mobile-first strategy can be immensely successf.
 Many companies prefer investing in a website that is adapted for desktop computers and ensuring that mobile users can quickly easily find the information that they are looking for.
 So how do you know if you really need to create a mobile-first website? Start by learning more about your website visitors and creating personas based on your most important customer segments and overall business goals; after all, you know more than anyone else who you are trying to target and what you need to achieve. The ideal solution will depend on your clientele, what devices it uses and your budget.
