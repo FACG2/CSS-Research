@@ -8,4 +8,4 @@
 
 It is used to describe the possibility of websites adapting to various output devices.The layout, fonts, image sizes etc. change and or scale according to the size of the browser.
 
-![Mobile First vs. Responsive]( http://metamonks.com/wp-content/uploads/mobile-first-vs-responsive-01-300x227.png "Mobile First vs. Responsive")
+![Mobile First vs. Responsive](http://metamonks.com/wp-content/uploads/responsive-vs-mobile-first-webdesign-022-1024x689.png "Mobile First vs. Responsive")
