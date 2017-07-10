@@ -1,4 +1,6 @@
 # CSS-Research
-CSS research topic
-Responsive:
-It is used to describe the possibility of websites adapting to various output devices. 
+## This reserch contains this main topics: 
+* Responsive vs mobile-first design.
+* How to write CSS with BEM.
+
+## Responsive vs mobile-first design
