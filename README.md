@@ -19,7 +19,7 @@ So how do you know if you really need to create a mobile-first website? Start by
 Here are some questions you need to ask yourself:
 * Do my customers prefer searching the web on computers or mobile devices?
 * Does my clientele mainly use mobile devices to browse the we
-
+___
 ## CSS with BEM
 The **Block**, **Element**, **Modifier** methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project.
 
