@@ -22,6 +22,9 @@ Here are some questions you need to ask yourself:
 
 ## CSS with BEM
 The **Block**, **Element**, **Modifier** methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project.
+
+CSS Code
+
 ```CSS
 /* Block component */
 .btn {}
@@ -34,4 +37,10 @@ The **Block**, **Element**, **Modifier** methodology (commonly referred to as BE
 .btn--big {}
 ```
 
-
+HTML CODE
+```CSS
+<a class="btn btn--big btn--orange" href="http://css-tricks.com">
+  <span class="btn__price">$9.99</span>
+  <span class="btn__text">Subscribe</span>
+</a>
+```
