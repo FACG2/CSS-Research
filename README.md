@@ -52,5 +52,5 @@ HTML CODE
 ```diff
 -Thanks for your time 
 ``` 
-       :bowtie:
+:bowtie:
 
